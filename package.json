@@ -51,6 +51,9 @@
       "optional": true
     }
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "./src/index.js",
   "browser": "./src/browser.js",
   "engines": {
