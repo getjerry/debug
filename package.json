@@ -1,9 +1,9 @@
 {
-  "name": "debug",
-  "version": "4.3.4",
+  "name": "@getjerry/debug",
+  "version": "4.3.6",
   "repository": {
     "type": "git",
-    "url": "git://github.com/debug-js/debug.git"
+    "url": "git@github.com:getjerry/debug.git"
   },
   "description": "Lightweight debugging utility for Node.js and the browser",
   "keywords": [
